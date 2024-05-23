@@ -1,11 +1,19 @@
-(1): https://link.springer.com/chapter/10.1007/978-3-031-38557-5_2
-
 vendredi
     matin: Continuer l'apprentissage de (1)
     reste: Commencer l'apprentissage de ce qui s'approche de la théorie
 
 samedi/dimanche:
-    Faire en sorte d'etre totalement à l'aise avec la majorité des concepts apercus et finir (4slap)
+    Faire en sorte d'etre totalement à l'aise avec la majorité des concepts apercus et finir (4)
 
 lundi:
-    Faire un point et poser des questions. Commencer l'apprentissage de 
+    Faire un point et poser des questions. Commencer l'apprentissage de 3
+
+mercredi:
+    matin: finir l'apprentissage de (3)
+    reste: commencer l'apprentissage de (2)
+
+vendredi:
+    finir l'apprentissage de (2)
+
+week-end:
+    faire un rapport de tout ce que l'on a appris et se preparer à en parler
